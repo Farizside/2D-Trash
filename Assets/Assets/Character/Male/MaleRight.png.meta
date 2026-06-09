@@ -1,0 +1,2628 @@
+fileFormatVersion: 2
+guid: 267b10bcdf4f4c64bb3d09e8f9e11d92
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6728038559012029099
+    second: output-smallpngtools_0
+  - first:
+      213: -7190109644978195511
+    second: output-smallpngtools_1
+  - first:
+      213: 2760124740260048015
+    second: output-smallpngtools_2
+  - first:
+      213: 3675015319047888926
+    second: output-smallpngtools_3
+  - first:
+      213: 5300009894437125
+    second: output-smallpngtools_4
+  - first:
+      213: -3229417887980367538
+    second: output-smallpngtools_5
+  - first:
+      213: 5785054483355786347
+    second: output-smallpngtools_6
+  - first:
+      213: -5309241988574469049
+    second: output-smallpngtools_7
+  - first:
+      213: -9118853326911103049
+    second: output-smallpngtools_8
+  - first:
+      213: -2763645115874612493
+    second: output-smallpngtools_9
+  - first:
+      213: 7457322895253001273
+    second: output-smallpngtools_10
+  - first:
+      213: -8391612021370129333
+    second: output-smallpngtools_11
+  - first:
+      213: -4628698136921574126
+    second: output-smallpngtools_12
+  - first:
+      213: -2458604756250227458
+    second: output-smallpngtools_13
+  - first:
+      213: 5228275113121128094
+    second: output-smallpngtools_14
+  - first:
+      213: 6461868314116351984
+    second: output-smallpngtools_15
+  - first:
+      213: -6794093577656200689
+    second: output-smallpngtools_16
+  - first:
+      213: -4967787646871920422
+    second: output-smallpngtools_17
+  - first:
+      213: 6139461759703014430
+    second: output-smallpngtools_18
+  - first:
+      213: -4950380431493683417
+    second: output-smallpngtools_19
+  - first:
+      213: -7884739237267557844
+    second: output-smallpngtools_20
+  - first:
+      213: 8228616128408052846
+    second: output-smallpngtools_21
+  - first:
+      213: 3133761531741823006
+    second: output-smallpngtools_22
+  - first:
+      213: -4619780514970200538
+    second: output-smallpngtools_23
+  - first:
+      213: 1492523137713889655
+    second: output-smallpngtools_24
+  - first:
+      213: -3229208766850186330
+    second: output-smallpngtools_25
+  - first:
+      213: -7395112141617349311
+    second: output-smallpngtools_26
+  - first:
+      213: 1766058410796023016
+    second: output-smallpngtools_27
+  - first:
+      213: -3570565980197649334
+    second: output-smallpngtools_28
+  - first:
+      213: -7331207787851513131
+    second: output-smallpngtools_29
+  - first:
+      213: 615580507969601190
+    second: output-smallpngtools_30
+  - first:
+      213: 5069131616150778538
+    second: output-smallpngtools_31
+  - first:
+      213: 4808114300917388915
+    second: output-smallpngtools_32
+  - first:
+      213: 6757536428256819550
+    second: output-smallpngtools_33
+  - first:
+      213: 6421952767802768229
+    second: output-smallpngtools_34
+  - first:
+      213: 4137934291261567764
+    second: output-smallpngtools_35
+  - first:
+      213: -7756486355502479937
+    second: output-smallpngtools_36
+  - first:
+      213: 126784915955292013
+    second: output-smallpngtools_37
+  - first:
+      213: -1378673292512122228
+    second: output-smallpngtools_38
+  - first:
+      213: -8615884516620280531
+    second: output-smallpngtools_39
+  - first:
+      213: 7461042509353140586
+    second: output-smallpngtools_40
+  - first:
+      213: -8820584654711652909
+    second: output-smallpngtools_41
+  - first:
+      213: 39877329020248903
+    second: output-smallpngtools_42
+  - first:
+      213: -89721314970611281
+    second: output-smallpngtools_43
+  - first:
+      213: -7358026525374380761
+    second: output-smallpngtools_44
+  - first:
+      213: 8216835859825130515
+    second: output-smallpngtools_45
+  - first:
+      213: 5115798422232852835
+    second: output-smallpngtools_46
+  - first:
+      213: 2014343164814018652
+    second: output-smallpngtools_47
+  - first:
+      213: 5105601865065641491
+    second: output-smallpngtools_48
+  - first:
+      213: -7841766775483807038
+    second: output-smallpngtools_49
+  - first:
+      213: 1023679270810366583
+    second: output-smallpngtools_50
+  - first:
+      213: -1497142613907849757
+    second: output-smallpngtools_51
+  - first:
+      213: 3014537492794593705
+    second: output-smallpngtools_52
+  - first:
+      213: 1336362924973776588
+    second: output-smallpngtools_53
+  - first:
+      213: -4456880394573617192
+    second: output-smallpngtools_54
+  - first:
+      213: 2585101779705368766
+    second: output-smallpngtools_55
+  - first:
+      213: -6742630420416227584
+    second: output-smallpngtools_56
+  - first:
+      213: -7025724380889080722
+    second: output-smallpngtools_57
+  - first:
+      213: -3358571838985150832
+    second: output-smallpngtools_58
+  - first:
+      213: -3082617647854505273
+    second: output-smallpngtools_59
+  - first:
+      213: -5253713427140402595
+    second: output-smallpngtools_60
+  - first:
+      213: -5190910664486610719
+    second: output-smallpngtools_61
+  - first:
+      213: 370386753050040777
+    second: output-smallpngtools_62
+  - first:
+      213: 2064674490254098559
+    second: output-smallpngtools_63
+  - first:
+      213: 1405634123592060715
+    second: output-smallpngtools_64
+  - first:
+      213: 956578691544513749
+    second: output-smallpngtools_65
+  - first:
+      213: 1591409490441847325
+    second: output-smallpngtools_66
+  - first:
+      213: 3899736983867287319
+    second: output-smallpngtools_67
+  - first:
+      213: 6180780165146879748
+    second: output-smallpngtools_68
+  - first:
+      213: 2050203815461323465
+    second: output-smallpngtools_69
+  - first:
+      213: 4876999543342345871
+    second: output-smallpngtools_70
+  - first:
+      213: 4751448816218650592
+    second: output-smallpngtools_71
+  - first:
+      213: -3234755173842182289
+    second: output-smallpngtools_72
+  - first:
+      213: -295711308195608206
+    second: output-smallpngtools_73
+  - first:
+      213: 8588464078596705170
+    second: output-smallpngtools_74
+  - first:
+      213: -1039116927781518157
+    second: output-smallpngtools_75
+  - first:
+      213: 2785082730056264350
+    second: output-smallpngtools_76
+  - first:
+      213: 5140661288659712089
+    second: output-smallpngtools_77
+  - first:
+      213: 7916938400829593311
+    second: output-smallpngtools_78
+  - first:
+      213: -1154810666189683224
+    second: output-smallpngtools_79
+  - first:
+      213: -5204384460905823347
+    second: output-smallpngtools_80
+  - first:
+      213: -6909529876092149905
+    second: output-smallpngtools_81
+  - first:
+      213: -4655150985219896137
+    second: output-smallpngtools_82
+  - first:
+      213: -6645533540508710234
+    second: output-smallpngtools_83
+  - first:
+      213: -699010946121414575
+    second: output-smallpngtools_84
+  - first:
+      213: 6597554574622965941
+    second: output-smallpngtools_85
+  - first:
+      213: -7813631045831571246
+    second: output-smallpngtools_86
+  - first:
+      213: -8076978175618328171
+    second: output-smallpngtools_87
+  - first:
+      213: -4887803113547368962
+    second: output-smallpngtools_88
+  - first:
+      213: -5223691086892684533
+    second: output-smallpngtools_89
+  - first:
+      213: -7740851202889677523
+    second: output-smallpngtools_90
+  - first:
+      213: 8557400925600461782
+    second: output-smallpngtools_91
+  - first:
+      213: 425754212441609104
+    second: output-smallpngtools_92
+  - first:
+      213: -6966788007118891411
+    second: output-smallpngtools_93
+  - first:
+      213: -4098596893856022512
+    second: output-smallpngtools_94
+  - first:
+      213: -6566320289364015265
+    second: output-smallpngtools_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MaleRight_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 535
+        width: 13
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc80aa9d07b3b1c4bbcf2c483fcb3425
+      internalID: -1120791781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 535
+        width: 13
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8fd795a242ce54da197653d8fb2260
+      internalID: -962934716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 535
+        width: 13
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d2a8e6c9c27054ea904ce23388d1fc
+      internalID: -1273730114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 535
+        width: 13
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950c41cd9dbc2684a852e79d9c5545c2
+      internalID: -2024126041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 535
+        width: 13
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b086300bca9dd88428f9713b7cb3fa3c
+      internalID: -283358778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 535
+        width: 13
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824265b3556c1d84ebab4bd577fed1c8
+      internalID: -300152788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 535
+        width: 13
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b616e55848e0a4a834ac24c46b7cee
+      internalID: 1834655804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 535
+        width: 13
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f167fadd45b622546a008f20b2b7ea8d
+      internalID: -2029898958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 487
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bf62dd5f2248648944599f1de326f2
+      internalID: 99549004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 487
+        width: 15
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529e6c9ee42a6274b8c3de699a699c70
+      internalID: -1284476959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 487
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6778e129ca28821408ffd5266cd239ab
+      internalID: -1776725660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 487
+        width: 15
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82a8dbcdf16fee44a42326f318cdd83
+      internalID: 1199659772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_12
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 487
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c1e9e131fae8546a3e4ea0618f1039
+      internalID: 2133258130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_13
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 487
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b038572d03c6b40ac9e611fb87d322
+      internalID: 1875990640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_14
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 487
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744bc231febcc4e4185f703ac2b94691
+      internalID: 1786314253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_15
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 487
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a285b7ac46c90542b791c3495880a45
+      internalID: 1391955210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 439
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d05122e8129c44489bf107615299c1a
+      internalID: -1336026386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_17
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 439
+        width: 15
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2cce115bfcbbb46bb14e2a68a77c2e
+      internalID: 1785487265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 439
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93eeaa9e234c7754b8379dcfea56f649
+      internalID: 425842254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 439
+        width: 15
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da1f1a893184004db8a395e23131405
+      internalID: 1930409712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_20
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 439
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c7c942a5654384facd83cd85fb0a30
+      internalID: 1403777435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_21
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 439
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993ee5e4695dbec478d2b2fa945f6c45
+      internalID: 1888477369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_22
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 439
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5bd8d9d1c6e3741b7013cacd03994d
+      internalID: 796645372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_23
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 439
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d35eebc1d4e67943a5155ea3226239e
+      internalID: 427088541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 391
+        width: 13
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8682b4b8ab64224d8e2a5249bbe0f80
+      internalID: 754120538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_25
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 391
+        width: 13
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d875afb5136bd40b6dab75ea30ffb4
+      internalID: -799539538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_26
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 391
+        width: 13
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d7b77dee73ded46aadd1ba41cdb0fe
+      internalID: -508917082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_27
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 391
+        width: 13
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d683c1596fc4d884ba775eee6146f988
+      internalID: -1173712402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_28
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 391
+        width: 13
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad36ae343c5d030428129ac272a91255
+      internalID: -1852057164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_29
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 391
+        width: 13
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9261f7f2a2a9f4c8aa1f4cc50fc100
+      internalID: -674355983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_30
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 391
+        width: 13
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66ae87370a031c4384fcce621613c19
+      internalID: 1315851257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_31
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 391
+        width: 13
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6863ed2d00b2143b0658cfd649620e
+      internalID: 653795901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 343
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca4c222fd5deaf46908a4351251a2a9
+      internalID: 54403247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_33
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 343
+        width: 15
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2815dfdee319014469a5823dca2adf75
+      internalID: 1147486582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_34
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 343
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b988e99e06dd8d1469cbf15409be42e8
+      internalID: 701748465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_35
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 343
+        width: 15
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effafd169fb50294195d63592037f3c9
+      internalID: -615289704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_36
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 343
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766ecda9de1e5b9438255417e4626de3
+      internalID: -1943606281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_37
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 343
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3552c1fe15797714dad0d7b81438fa40
+      internalID: -837770010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_38
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 343
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3591d5b0524f06642b7215927d98eb9f
+      internalID: 866905903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_39
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 343
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11af465103ea92c45b844b3d7bf0908b
+      internalID: 1248238907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_40
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 295
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa399c27d8ce034c92e8b164925c125
+      internalID: -1884568327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_41
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 295
+        width: 15
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1307e876d7b634dbe50aa2a83f559b
+      internalID: 266551039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_42
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 295
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a791b385eafa064fba4711e2e0b887e
+      internalID: 1380039388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_43
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 295
+        width: 15
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cc9b689fe648d4cadd12d0aec84eae
+      internalID: -1165016864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_44
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 295
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bc1f20342cbdb43a7d641623fe3359
+      internalID: -1400381198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_45
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 295
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8060c1652001b14c80089172b297a14
+      internalID: 1943772936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_46
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 295
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db225a7796fabd544a96760e66335ac6
+      internalID: -735711134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_47
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 295
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06a5a8de013f1248befacc2d69a9db3
+      internalID: 1380146698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_48
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 247
+        width: 13
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255853e35a5e4d144b38deac98f99d18
+      internalID: -1853862398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_49
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 247
+        width: 13
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c9fae84d1fd294781801d23ca2a452
+      internalID: 765728649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_50
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 247
+        width: 13
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022d9df63d389664fb10a8f478275900
+      internalID: 2059625551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_51
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 247
+        width: 13
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60119531fefb26d42b5d4f47c151bfb3
+      internalID: -206288369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_52
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 247
+        width: 13
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe775390bb6aaa4496281c456a31176
+      internalID: 1248351635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_53
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 247
+        width: 13
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a673daeb43786488d92fc641bc7987
+      internalID: 2048251685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_54
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 247
+        width: 13
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36229e0f890aa2d48b32157103b1da17
+      internalID: -1446132193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_55
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 247
+        width: 13
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c728f3519d50e42458e22a94dc232c89
+      internalID: -673785015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_56
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 199
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396a351d2fc4e6844abc832d26d8e959
+      internalID: -1949964605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_57
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 199
+        width: 15
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b832e8e241834aa46806289280c174c5
+      internalID: -2085164403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_58
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 199
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafbb2329875c244db4aaadd794773cd
+      internalID: -1808767410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_59
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 199
+        width: 15
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86dfe1096a3026c44b0a47b7ff375073
+      internalID: -35206459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_60
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 199
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8b75214f8f39040ada2908f56d854d
+      internalID: 547398450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_61
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 199
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002cdae28d3c7f746b3c43cef41dc850
+      internalID: -1102194247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_62
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 199
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb3b872126b35f4a934f20e8fddf9ba
+      internalID: -538022237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_63
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 199
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417f7dd81ab06814a9f70b3076f51221
+      internalID: -1130353960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_64
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 151
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d494b9b3c8c8b442a5eb89be2542589
+      internalID: -1444864117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_65
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 151
+        width: 15
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f318a52cedfbf448131aac0868d064
+      internalID: 1284353022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_66
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 151
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e068fe926eb53174682abc4b03151ec9
+      internalID: -1486506066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_67
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 151
+        width: 15
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb9d188e5f11834fb8e97d69cd2fbc8
+      internalID: -1146659300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_68
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 151
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7addc0cd661b645a854b19d6f41f2c
+      internalID: 507602157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_69
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 151
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bcddf80da0b31468fb57c9fa9c62f6
+      internalID: 655684779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_70
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 151
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05cd96e5804aa449aac5179f3bd421c
+      internalID: -1572291943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_71
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 151
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61316b1e3a218624a863aad58144bc6a
+      internalID: 838875631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_72
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 103
+        width: 13
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b74222faad11541a03aef01a725a85
+      internalID: 1303242316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_73
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 103
+        width: 13
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c54fbad39b18845a4946aea683707c
+      internalID: 589428173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_74
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 103
+        width: 13
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de89e1d8ce19f249a9e087ead0198e2
+      internalID: -1454340532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_75
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 103
+        width: 13
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795ceab68da35dd41988504cfd0fc88e
+      internalID: 1761613137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_76
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 103
+        width: 13
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1227de365dad0fd42a85448313ac1914
+      internalID: -1179981117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_77
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 103
+        width: 13
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef8ea4edd5643b46b85f39e2ac20039
+      internalID: 1932143532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_78
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 103
+        width: 13
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2d87ba807c96f4ab5f893c796367b3
+      internalID: -1493524343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_79
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 103
+        width: 13
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a741275bda5e544c8a0b717a2f2be5d
+      internalID: 33306035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_80
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 55
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d421d3946a5bd42aa5dd45f14305a2
+      internalID: 1398858355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_81
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 55
+        width: 15
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6304ba3beea5042b04eb404c1f42b4
+      internalID: 1324067407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_82
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 55
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2036c374a77f76d468ec870de43e0416
+      internalID: -103709088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_83
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 55
+        width: 15
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e383d23b4a9874146917f0799da3674f
+      internalID: -19634363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_84
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 55
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2fdb09b78d9764eb2e28af356df537
+      internalID: 2010828161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_85
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 55
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a459322d2ec43469d6b591a765f3f5
+      internalID: 110342517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_86
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 55
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c467e1480f4f3c4fb91f209ba0af4d1
+      internalID: -1587811001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_87
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 55
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf71f2dc58d98c4181ebdbfb4ea8f10
+      internalID: 1229264921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_88
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 7
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e994c664b761143be81ebf9c47c750
+      internalID: -163145181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_89
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 7
+        width: 15
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c8eb0b5bf11f24b95858e38edceb03
+      internalID: 937876417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_90
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 7
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6642c98e3fd2b46955f9bec06a5211
+      internalID: 1930053982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_91
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 7
+        width: 15
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0d3a4faeada6148a8d66afedfadeef
+      internalID: -159051457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_92
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 7
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7287d4e672d5eae4abf376f8681b1924
+      internalID: 371335064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_93
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 7
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa21b76e868b9744b94c58d7ef10dac
+      internalID: 591953393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_94
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 7
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006254bed5e7c9c4eb6a00c2073b4692
+      internalID: -769922005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleRight_95
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 7
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b92e7accfb7514aba2c27343665005
+      internalID: 131451116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6a8b06fc2115bd646ae39efafc53b0fa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":1,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      MaleRight_0: -1120791781
+      MaleRight_1: -962934716
+      MaleRight_10: -1776725660
+      MaleRight_11: 1199659772
+      MaleRight_12: 2133258130
+      MaleRight_13: 1875990640
+      MaleRight_14: 1786314253
+      MaleRight_15: 1391955210
+      MaleRight_16: -1336026386
+      MaleRight_17: 1785487265
+      MaleRight_18: 425842254
+      MaleRight_19: 1930409712
+      MaleRight_2: -1273730114
+      MaleRight_20: 1403777435
+      MaleRight_21: 1888477369
+      MaleRight_22: 796645372
+      MaleRight_23: 427088541
+      MaleRight_24: 754120538
+      MaleRight_25: -799539538
+      MaleRight_26: -508917082
+      MaleRight_27: -1173712402
+      MaleRight_28: -1852057164
+      MaleRight_29: -674355983
+      MaleRight_3: -2024126041
+      MaleRight_30: 1315851257
+      MaleRight_31: 653795901
+      MaleRight_32: 54403247
+      MaleRight_33: 1147486582
+      MaleRight_34: 701748465
+      MaleRight_35: -615289704
+      MaleRight_36: -1943606281
+      MaleRight_37: -837770010
+      MaleRight_38: 866905903
+      MaleRight_39: 1248238907
+      MaleRight_4: -283358778
+      MaleRight_40: -1884568327
+      MaleRight_41: 266551039
+      MaleRight_42: 1380039388
+      MaleRight_43: -1165016864
+      MaleRight_44: -1400381198
+      MaleRight_45: 1943772936
+      MaleRight_46: -735711134
+      MaleRight_47: 1380146698
+      MaleRight_48: -1853862398
+      MaleRight_49: 765728649
+      MaleRight_5: -300152788
+      MaleRight_50: 2059625551
+      MaleRight_51: -206288369
+      MaleRight_52: 1248351635
+      MaleRight_53: 2048251685
+      MaleRight_54: -1446132193
+      MaleRight_55: -673785015
+      MaleRight_56: -1949964605
+      MaleRight_57: -2085164403
+      MaleRight_58: -1808767410
+      MaleRight_59: -35206459
+      MaleRight_6: 1834655804
+      MaleRight_60: 547398450
+      MaleRight_61: -1102194247
+      MaleRight_62: -538022237
+      MaleRight_63: -1130353960
+      MaleRight_64: -1444864117
+      MaleRight_65: 1284353022
+      MaleRight_66: -1486506066
+      MaleRight_67: -1146659300
+      MaleRight_68: 507602157
+      MaleRight_69: 655684779
+      MaleRight_7: -2029898958
+      MaleRight_70: -1572291943
+      MaleRight_71: 838875631
+      MaleRight_72: 1303242316
+      MaleRight_73: 589428173
+      MaleRight_74: -1454340532
+      MaleRight_75: 1761613137
+      MaleRight_76: -1179981117
+      MaleRight_77: 1932143532
+      MaleRight_78: -1493524343
+      MaleRight_79: 33306035
+      MaleRight_8: 99549004
+      MaleRight_80: 1398858355
+      MaleRight_81: 1324067407
+      MaleRight_82: -103709088
+      MaleRight_83: -19634363
+      MaleRight_84: 2010828161
+      MaleRight_85: 110342517
+      MaleRight_86: -1587811001
+      MaleRight_87: 1229264921
+      MaleRight_88: -163145181
+      MaleRight_89: 937876417
+      MaleRight_9: -1284476959
+      MaleRight_90: 1930053982
+      MaleRight_91: -159051457
+      MaleRight_92: 371335064
+      MaleRight_93: 591953393
+      MaleRight_94: -769922005
+      MaleRight_95: 131451116
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
