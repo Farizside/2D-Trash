@@ -11,6 +11,7 @@ namespace Input
         public static InputManager Instance;
 
         public static Action<Vector2> moveAction;
+        public static Action interactAction;
 
         private void Awake()
         {
@@ -48,6 +49,14 @@ namespace Input
         public void OnMove(InputAction.CallbackContext context)
         {
             moveAction?.Invoke(context.ReadValue<Vector2>());
+        }
+
+        public void OnInteract(InputAction.CallbackContext context)
+        {
+            if (context.performed)
+            {
+                interactAction?.Invoke();
+            }
         }
     }
 }
