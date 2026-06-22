@@ -14,14 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Dialogue.DialogueData
   _dialogueList:
   - state: 0
-    text:
-    - Halo, saya ketua RT disini.
-    - Tolong bantu saya untuk membersihkan sampah di taman ini!
+    messages:
+    - actor: Ahmad
+      message: Halo
+    - actor: Pak RT
+      message: Halo
   - state: 1
-    text:
-    - Sepertinya masih ada beberapa sampah disini.
+    messages: []
   - state: 2
-    text:
-    - Sekarang taman sudah bersih dari sampah
-    - Terimakasih banyak telah membantu
-    - Sekarang kamu bisa pergi ke pasar
+    messages: []

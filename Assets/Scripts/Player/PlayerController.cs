@@ -1,3 +1,4 @@
+using UI;
 using UnityEngine;
 
 namespace Player
@@ -7,6 +8,7 @@ namespace Player
         public PlayerInteraction playerInteraction;
         public PlayerMovement playerMovement;
         public PlayerQuest playerQuest;
+        public HUDManager hudManager;
         
         public static PlayerController Instance;
         

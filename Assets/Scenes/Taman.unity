@@ -26432,11 +26432,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Dialogue.DialogueController
   _dialogueCanvas: {fileID: 1300205084}
+  _actor: {fileID: 5886225448724583135}
   _text: {fileID: 1341068632}
   _timing: 0.01
   CurrentDialogue:
     state: 0
-    text: []
+    messages: []
 --- !u!4 &1691039140
 Transform:
   m_ObjectHideFlags: 0
@@ -26624,6 +26625,17 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1b0b1d2f66f8b0149b58e58a89e11e58, type: 3}
+--- !u!114 &5886225448724583135 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5970310401801222448, guid: 1b0b1d2f66f8b0149b58e58a89e11e58, type: 3}
+  m_PrefabInstance: {fileID: 5886225448724583134}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
 --- !u!1001 &6012952858542207012
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -26684,6 +26696,22 @@ PrefabInstance:
       propertyPath: _dialogueData
       value: 
       objectReference: {fileID: 11400000, guid: 66d91b29174a599409c9443cbf5dc50c, type: 2}
+    - target: {fileID: 9059834483588008083, guid: 75b849c00bdfde24490e798f4f93b397, type: 3}
+      propertyPath: _questDatas.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 9059834483588008083, guid: 75b849c00bdfde24490e798f4f93b397, type: 3}
+      propertyPath: _questEntries.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 9059834483588008083, guid: 75b849c00bdfde24490e798f4f93b397, type: 3}
+      propertyPath: '_questDatas.Array.data[0]'
+      value: 
+      objectReference: {fileID: 11400000, guid: dcb2e856cbcef4a4a91a115df5335fb1, type: 2}
+    - target: {fileID: 9059834483588008083, guid: 75b849c00bdfde24490e798f4f93b397, type: 3}
+      propertyPath: '_questDatas.Array.data[1]'
+      value: 
+      objectReference: {fileID: 11400000, guid: 8528e81febc9989498f5c22fb615ef21, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

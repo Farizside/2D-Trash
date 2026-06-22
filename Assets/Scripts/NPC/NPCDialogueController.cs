@@ -1,6 +1,7 @@
 using Dialogue;
 using Interactable;
 using Quest;
+using System.Collections.Generic;
 using UnityEngine;
 
 namespace NPC
@@ -8,9 +9,9 @@ namespace NPC
     public class NPCDialogueController : MonoBehaviour, IInteractable
     {
         [SerializeField] DialogueData _dialogueData;
-        [SerializeField] DialogueState _currentState; 
-        [SerializeField] QuestData _questData;
-        
+        [SerializeField] DialogueState _currentState;
+        [SerializeField] List<QuestData> _questDatas = new List<QuestData>();
+
         public void Interact()
         {
             switch (_currentState)
@@ -18,22 +19,38 @@ namespace NPC
                 case DialogueState.Start:
                     DialogueController.Instance.CurrentDialogue = _dialogueData._dialogueList[(int)_currentState];
                     DialogueController.Instance.StartDialogue();
-                    QuestController.Instance.ActiveQuests.Add(_questData);
+                    foreach (var quest in _questDatas)
+                    {
+                        if (!QuestController.Instance.ActiveQuests.Contains(quest))
+                            QuestController.Instance.ActiveQuests.Add(quest);
+                    }
                     QuestController.Instance.UpdateAllQuests();
                     _currentState++;
                     return;
+
                 case DialogueState.Progress:
-                    if (_questData.questState == QuestState.Finished)
-                    {
+                    QuestController.Instance.UpdateAllQuests();
+                    if (AllQuestsFinished())
                         _currentState++;
-                    }
                     break;
+
                 case DialogueState.End:
-                    QuestController.Instance.ActiveQuests.Remove(_questData);
+                    foreach (var quest in _questDatas)
+                        QuestController.Instance.ActiveQuests.Remove(quest);
                     break;
             }
+
             DialogueController.Instance.CurrentDialogue = _dialogueData._dialogueList[(int)_currentState];
             DialogueController.Instance.StartDialogue();
+        }
+
+        private bool AllQuestsFinished()
+        {
+            foreach (var quest in _questDatas)
+            {
+                if (quest.questState != QuestState.Finished) return false;
+            }
+            return true;
         }
     }
 }

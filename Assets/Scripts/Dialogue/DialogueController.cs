@@ -9,6 +9,7 @@ namespace Dialogue
     {
         [Header("UI")]
         [SerializeField] private GameObject _dialogueCanvas;
+        [SerializeField] private TMP_Text _actor;
         [SerializeField] private TMP_Text _text;
         [SerializeField] private float _timing;
         
@@ -45,9 +46,11 @@ namespace Dialogue
         private IEnumerator ShowText()
         {
             _text.text = "";
-            foreach (var dialogue in CurrentDialogue.text)
+            _actor.text = "";
+            foreach (var dialogue in CurrentDialogue.messages)
             {
-                foreach (var c in dialogue)
+                _actor.text = dialogue.actor;
+                foreach (var c in dialogue.message)
                 {
                     _text.text += c;
                     yield return new WaitForSeconds(_timing);

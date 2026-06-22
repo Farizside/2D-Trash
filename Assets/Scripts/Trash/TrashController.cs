@@ -11,6 +11,7 @@ public class TrashController : MonoBehaviour, IInteractable, IQuestObject
     public void Interact()
     {
         if (PlayerController.Instance.playerInteraction._collectedTrash) return;
+        if (PlayerController.Instance.playerInteraction._currentGlove != category) return;
         PlayerController.Instance.playerInteraction._collectedTrash = this;
         gameObject.SetActive(false);
     }

@@ -12,6 +12,7 @@ namespace Input
 
         public static Action<Vector2> moveAction;
         public static Action interactAction;
+        public static Action changeGloveAction;
 
         private void Awake()
         {
@@ -56,6 +57,14 @@ namespace Input
             if (context.performed)
             {
                 interactAction?.Invoke();
+            }
+        }
+
+        public void OnChangeGlove(InputAction.CallbackContext context)
+        {
+            if (context.performed)
+            {
+                changeGloveAction?.Invoke();
             }
         }
     }

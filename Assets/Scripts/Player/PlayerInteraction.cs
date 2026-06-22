@@ -1,6 +1,8 @@
+using System;
 using System.Collections.Generic;
 using Input;
 using Interactable;
+using Trash;
 using UnityEngine;
 
 namespace Player
@@ -9,16 +11,19 @@ namespace Player
     public class PlayerInteraction : MonoBehaviour
     {
         [SerializeField] private List<Transform> _interactableObjects = new List<Transform>();
+        public TrashEnum _currentGlove;
         public TrashController _collectedTrash;
 
         private void OnEnable()
         {
             InputManager.interactAction += Interact;
+            InputManager.changeGloveAction += ChangeGlove;
         }
 
         private void OnDisable()
         {
             InputManager.interactAction -= Interact;
+            InputManager.changeGloveAction -= ChangeGlove;
         }
 
         private void OnTriggerEnter2D(Collider2D other)
@@ -45,6 +50,12 @@ namespace Player
                 var interactable = _interactableObjects[i].gameObject.GetComponent<IInteractable>();
                 interactable.Interact();
             }
+        }
+
+        private void ChangeGlove()
+        {
+            _currentGlove = (TrashEnum)(((int)_currentGlove + 1) % Enum.GetValues(typeof(TrashEnum)).Length);
+            PlayerController.Instance.hudManager.GloveUI.OnGloveChanged();
         }
     }
 }

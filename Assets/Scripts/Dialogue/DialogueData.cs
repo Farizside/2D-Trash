@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using Trash;
 using UnityEngine;
 
 namespace Dialogue
@@ -14,7 +15,14 @@ namespace Dialogue
     public struct Dialogue
     {
         public DialogueState state;
-        public List<string> text;
+        public List<Message> messages;
+    }
+
+    [Serializable]
+    public struct Message
+    {
+        public string actor;
+        public string message;
     }
 
     public enum DialogueState
