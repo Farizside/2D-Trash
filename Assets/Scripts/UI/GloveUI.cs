@@ -35,6 +35,15 @@ namespace UI
                 case TrashEnum.Anorganik:
                     _buttonColor = Color.yellow;
                     break;
+                case TrashEnum.Kertas:
+                    _buttonColor = Color.blue;
+                    break;
+                case TrashEnum.Residu:
+                    _buttonColor = Color.gray;
+                    break;
+                case TrashEnum.B3:
+                    _buttonColor = Color.red;
+                    break;
             }
         }
 

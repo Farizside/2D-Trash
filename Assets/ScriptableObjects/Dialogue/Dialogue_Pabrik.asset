@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02dcf0005b8a2744eb49f653a12442d2, type: 3}
+  m_Name: Dialogue_Pabrik
+  m_EditorClassIdentifier: Assembly-CSharp::Dialogue.DialogueData
+  _dialogueList:
+  - state: 0
+    messages:
+    - actor: Ahmad
+      message: ' Bau kimia di sini sangat menyengat. aku mendeteksi sampah baru disini'
+    - actor: Pak RT
+      message: Ini kawasan paling berbahaya, Ahmad. Itu adalah sampah B3. Kamu harus
+        memasukkannya ke tong warna Merah!
+    - actor: Ahmad
+      message: Baik, Pak. Saya akan membersihkan sampah dan melenyapkan bahaya disini!
+  - state: 1
+    messages:
+    - actor: Ahmad
+      message: ' Bau kimia di sini sangat menyengat. aku mendeteksi sampah baru disini'
+    - actor: Pak RT
+      message: Ini kawasan paling berbahaya, Ahmad. Itu adalah sampah B3. Kamu harus
+        memasukkannya ke tong warna Merah!
+    - actor: Ahmad
+      message: Baik, Pak. Saya akan membersihkan sampah dan melenyapkan bahaya disini!
+  - state: 2
+    messages:
+    - actor: Ahmad
+      message: Selesai! Seluruh rintangan beracun sudah lenyap dan sampah B3 sudah
+        diamankan.
+    - actor: Pak RT
+      message: Ahmad, kamu benar-benar pahlawan Desa Gresik! Berkat sarung tangan
+        ciptaanmu dan kerja kerasmu, desa ini kembali bersih dan sehat. Warga berjanji
+        akan belajar darimu untuk terus memilah sampah!

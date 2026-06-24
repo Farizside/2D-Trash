@@ -14,12 +14,6 @@ namespace Quest
         public int target;
         public int current;
         public QuestState questState;
-        public string sceneName;
-
-        private void OnEnable()
-        {
-            DialogueController.OnFinishDialogue += OnQuestFinished;
-        }
 
         private void OnValidate()
         {
@@ -40,24 +34,20 @@ namespace Quest
                 case QuestType.Anorganik:
                     current = PlayerController.Instance.playerQuest.AnorganikCount;
                     break;
+                case QuestType.Kertas:
+                    current = PlayerController.Instance.playerQuest.KertasCount;
+                    break;
+                case QuestType.Residu:
+                    current = PlayerController.Instance.playerQuest.ResiduCount;
+                    break;
+                case QuestType.B3:
+                    current = PlayerController.Instance.playerQuest.B3Count;
+                    break;
             }
 
             if (current >= target)
             {
                 questState = QuestState.Finished;
-            }
-        }
-    
-        private void OnQuestFinished()
-        {
-            if (questState == QuestState.Finished && !string.IsNullOrEmpty(sceneName))
-            {
-                QuestController.Instance.ActiveQuests.Remove(this);
-                DialogueController.OnFinishDialogue -= OnQuestFinished;
-                if (!string.IsNullOrEmpty(sceneName))
-                {
-                    SceneManager.LoadScene(sceneName);
-                }
             }
         }
     }
@@ -66,7 +56,10 @@ namespace Quest
     {
         All,
         Organik,
-        Anorganik
+        Anorganik,
+        Kertas,
+        Residu,
+        B3
     }
 
     public enum QuestState

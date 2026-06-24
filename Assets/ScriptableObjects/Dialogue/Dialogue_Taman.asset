@@ -16,10 +16,27 @@ MonoBehaviour:
   - state: 0
     messages:
     - actor: Ahmad
-      message: Halo
+      message: Permisi, Pak RT. Maaf saya baru kembali. Apa yang sebenarnya terjadi
+        dengan Desa Gresik?
     - actor: Pak RT
-      message: Halo
+      message: Seperti yang kamu lihat, warga mulai malas membuang sampah pada tempatnya,
+        apalagi memilahnya dan Bapak tidak sanggup membersihkannya sendirian.
+    - actor: Ahmad
+      message: Tenang, Pak! Saya akan turun tangan langsung. Mari kita mulai bersihkan
+        desa ini, saya akan mulai dari memulihkan area Taman!
   - state: 1
-    messages: []
+    messages:
+    - actor: Ahmad
+      message: Kondisinya parah sekali. Pak RT, sebagai permulaan, apa saja jenis
+        sampah dasar yang harus saya pisahkan di sini?
+    - actor: Pak RT
+      message: Tolong pisahkan menjadi tiga ya, Nak. Masukkan sampah Organik ke Tong
+        Hijau, Anorganik/Plastik ke Tong Kuning, dan bungkus Kertas ke Tong Biru.
+    - actor: Ahmad
+      message: Dimengerti, Pak! saya akan membersihkan dan memperindah nya!
   - state: 2
-    messages: []
+    messages:
+    - actor: Ahmad
+      message: Saya sudah bersihkan taman ini Pak!
+    - actor: Pak RT
+      message: Terima kasih, Nak. Sekarang kita lanjut ke Pasar!

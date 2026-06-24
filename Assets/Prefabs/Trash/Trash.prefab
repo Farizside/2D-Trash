@@ -151,4 +151,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 18ef3a0e1c3711b479cae608731edace, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TrashController
-  category: 1
+  category: 3

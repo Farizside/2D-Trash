@@ -4,5 +4,8 @@ namespace Trash
     {
         Organik,
         Anorganik,
+        Kertas,
+        Residu,
+        B3
     }
 }

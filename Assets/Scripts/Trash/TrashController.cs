@@ -27,6 +27,15 @@ public class TrashController : MonoBehaviour, IInteractable, IQuestObject
             case TrashEnum.Anorganik:
                 PlayerController.Instance.playerQuest.AnorganikCount++;
                 break;
+            case TrashEnum.Kertas:
+                PlayerController.Instance.playerQuest.KertasCount++;
+                break;
+            case TrashEnum.Residu:
+                PlayerController.Instance.playerQuest.ResiduCount++;
+                break;
+            case TrashEnum.B3:
+                PlayerController.Instance.playerQuest.B3Count++;
+                break;
         }
         QuestController.Instance.UpdateAllQuests();
     }

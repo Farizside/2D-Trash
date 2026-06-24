@@ -14,13 +14,32 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Dialogue.DialogueData
   _dialogueList:
   - state: 0
-    text:
-    - Halo, dipasar sangat banyak sampah organik
-    - Tolong bantu saya bersihkan sampah organik
-    - Kemudian buang ke tempat sampah berwarna hijau
+    messages:
+    - actor: Ahmad
+      message: Pak RT, saya melihat banyak sampah baru di sini. aku mendeteksinya
+        sebagai sampah yang sulit diurai
+    - actor: Pak RT
+      message: Betul, Ahmad. Itu adalah sampah Residu, pastikan kamu memasukkannya
+        ke tong warna Abu-abu. Tapi hati-hati, jalan utamanya tertutup rintangan
+        barikade sampah raksasa!
+    - actor: Ahmad
+      message: Tidak masalah. Aku akan menggunakan sarung tanganku untuk menjadi
+        penghancur dan membuka jalan itu.
   - state: 1
-    text:
-    - Sepertinya masih banyak sampah disini
+    messages:
+    - actor: Ahmad
+      message: Pak RT, saya melihat banyak sampah baru di sini. aku mendeteksinya
+        sebagai sampah yang sulit diurai
+    - actor: Pak RT
+      message: Betul, Ahmad. Itu adalah sampah Residu, pastikan kamu memasukkannya
+        ke tong warna Abu-abu. Tapi hati-hati, jalan utamanya tertutup rintangan
+        barikade sampah raksasa!
+    - actor: Ahmad
+      message: Tidak masalah. Aku akan menggunakan sarung tanganku untuk menjadi
+        penghancur dan membuka jalan itu.
   - state: 2
-    text:
-    - Terimakasih
+    messages:
+    - actor: Ahmad
+      message: Saya sudah selesai membersihkan Pasar, Pak!
+    - actor: Pak RT
+      message: Terima kasih Ahmad, mari kita lanjut ke Pabrik

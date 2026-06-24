@@ -1,8 +1,10 @@
+using System;
 using Dialogue;
 using Interactable;
 using Quest;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 namespace NPC
 {
@@ -11,6 +13,12 @@ namespace NPC
         [SerializeField] DialogueData _dialogueData;
         [SerializeField] DialogueState _currentState;
         [SerializeField] List<QuestData> _questDatas = new List<QuestData>();
+        [SerializeField] string _sceneName;
+
+        private void OnEnable()
+        {
+            DialogueController.OnFinishDialogue += OnAllQuestFinished;
+        }
 
         public void Interact()
         {
@@ -51,6 +59,15 @@ namespace NPC
                 if (quest.questState != QuestState.Finished) return false;
             }
             return true;
+        }
+        
+        private void OnAllQuestFinished()
+        {
+            if (_currentState == DialogueState.End)
+            {
+                DialogueController.OnFinishDialogue -= OnAllQuestFinished;
+                SceneManager.LoadScene(_sceneName);
+            }
         }
     }
 }
