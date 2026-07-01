@@ -43,6 +43,9 @@ namespace Quest
                 case QuestType.B3:
                     current = PlayerController.Instance.playerQuest.B3Count;
                     break;
+                case QuestType.Decorate:
+                    current = PlayerController.Instance.playerQuest.DecorateCount;
+                    break;
             }
 
             if (current >= target)
@@ -59,7 +62,8 @@ namespace Quest
         Anorganik,
         Kertas,
         Residu,
-        B3
+        B3,
+        Decorate
     }
 
     public enum QuestState

@@ -10,6 +10,7 @@ namespace Player
         public int KertasCount;
         public int ResiduCount;
         public int B3Count;
+        public int DecorateCount;
         
         public void ResetQuest()
         {
@@ -19,6 +20,7 @@ namespace Player
             KertasCount = 0;
             ResiduCount = 0;
             B3Count = 0;
+            DecorateCount = 0;
         }
     }
 }

@@ -12,6 +12,7 @@ public class TrashController : MonoBehaviour, IInteractable, IQuestObject
     {
         if (PlayerController.Instance.playerInteraction._collectedTrash) return;
         if (PlayerController.Instance.playerInteraction._currentGlove != category) return;
+        PlayerController.Instance.playerInteraction.PlayGrabSound();
         PlayerController.Instance.playerInteraction._collectedTrash = this;
         gameObject.SetActive(false);
     }
@@ -19,6 +20,7 @@ public class TrashController : MonoBehaviour, IInteractable, IQuestObject
     public void OnProgress()
     {
         PlayerController.Instance.playerQuest.TrashCount += 1;
+        PlayerController.Instance.coin += 50;
         switch (category)
         {
             case TrashEnum.Organik:
@@ -38,5 +40,6 @@ public class TrashController : MonoBehaviour, IInteractable, IQuestObject
                 break;
         }
         QuestController.Instance.UpdateAllQuests();
+        PlayerController.Instance.hudManager.UpdateCoin();
     }
 }

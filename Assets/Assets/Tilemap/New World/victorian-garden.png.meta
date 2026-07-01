@@ -17023,6 +17023,28 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: victorian-garden_747
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 404
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02965d04f53fb3146a21743eca50099f
+      internalID: -2032736771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -17759,6 +17781,7 @@ TextureImporter:
       victorian-garden_744: 1102484818
       victorian-garden_745: 477910518
       victorian-garden_746: -448984640
+      victorian-garden_747: -2032736771
       victorian-garden_75: 6713866991955620026
       victorian-garden_76: -9028491262851053047
       victorian-garden_77: 5720291649469281544

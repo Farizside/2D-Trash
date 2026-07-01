@@ -1,3 +1,4 @@
+using System;
 using UI;
 using UnityEngine;
 
@@ -9,6 +10,8 @@ namespace Player
         public PlayerMovement playerMovement;
         public PlayerQuest playerQuest;
         public HUDManager hudManager;
+
+        public int coin = 0;
         
         public static PlayerController Instance;
         

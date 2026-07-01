@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf3552174420f2749bef85a0d27a3109, type: 3}
+  m_Name: A_ BotolPlastik
+  m_EditorClassIdentifier: Assembly-CSharp::Trash.TrashSO
+  trashName: Botol Plastik
+  trashDescription: Botol minuman atau wadah cairan yang terbuat dari plastik. Dapat
+    didaur ulang menjadi berbagai produk baru jika dipilah dengan benar.
+  trashType: 1
+  trashIcon: {fileID: -2946285828468849384, guid: ff065d626ec3faf41bec4dff580b12b8, type: 3}
+  trashPrice: 0

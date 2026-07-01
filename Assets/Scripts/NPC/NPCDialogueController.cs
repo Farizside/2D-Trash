@@ -3,6 +3,7 @@ using Dialogue;
 using Interactable;
 using Quest;
 using System.Collections.Generic;
+using Player;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -43,8 +44,7 @@ namespace NPC
                     break;
 
                 case DialogueState.End:
-                    foreach (var quest in _questDatas)
-                        QuestController.Instance.ActiveQuests.Remove(quest);
+                    QuestController.Instance.ActiveQuests.Clear();
                     break;
             }
 
@@ -65,6 +65,8 @@ namespace NPC
         {
             if (_currentState == DialogueState.End)
             {
+                QuestController.Instance.ActiveQuests.Clear();
+                PlayerController.Instance.playerInteraction.PlayWinSound();
                 DialogueController.OnFinishDialogue -= OnAllQuestFinished;
                 SceneManager.LoadScene(_sceneName);
             }

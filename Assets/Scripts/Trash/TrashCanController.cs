@@ -15,6 +15,7 @@ namespace Trash
             if (trash.category == category)
             {
                 PlayerController.Instance.playerInteraction._collectedTrash = null;
+                PlayerController.Instance.playerInteraction.PlayCorrectSound();
                 trash.OnProgress();
                 Destroy(trash.gameObject);
             }

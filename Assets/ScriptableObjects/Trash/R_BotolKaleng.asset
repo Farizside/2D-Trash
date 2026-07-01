@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf3552174420f2749bef85a0d27a3109, type: 3}
+  m_Name: R_BotolKaleng
+  m_EditorClassIdentifier: Assembly-CSharp::Trash.TrashSO
+  trashName: Botol Kaleng
+  trashDescription: Wadah minuman berbahan aluminium atau logam, seperti kaleng minuman
+    ringan. Memiliki nilai daur ulang yang tinggi dan sebaiknya dipisahkan dari sampah
+    lainnya.
+  trashType: 3
+  trashIcon: {fileID: -9126756260012406291, guid: ff065d626ec3faf41bec4dff580b12b8, type: 3}
+  trashPrice: 0

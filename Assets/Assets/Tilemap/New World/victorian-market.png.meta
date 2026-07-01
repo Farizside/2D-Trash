@@ -24639,6 +24639,50 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: victorian-market_1079
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 591
+        width: 87
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1051b45fbe2da7344bbb9e491b943558
+      internalID: 2059781731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-market_1080
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 526
+        width: 32
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55aef61641f1c9f4a8d725d18657d73d
+      internalID: 1620959847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -24745,7 +24789,9 @@ TextureImporter:
       victorian-market_1076: -1192934503
       victorian-market_1077: -1204926578
       victorian-market_1078: -116570365
+      victorian-market_1079: 2059781731
       victorian-market_108: -1689060710033357988
+      victorian-market_1080: 1620959847
       victorian-market_109: -8992238023211842400
       victorian-market_11: -388124317155844732
       victorian-market_110: -1898099581884118576

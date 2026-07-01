@@ -11,6 +11,11 @@ namespace Player
     public class PlayerInteraction : MonoBehaviour
     {
         [SerializeField] private List<Transform> _interactableObjects = new List<Transform>();
+        [SerializeField] private AudioSource _sfx;
+        [SerializeField] private AudioClip _grabSound;
+        [SerializeField] private AudioClip _correctSound;
+        [SerializeField] private AudioClip _wrongSound;
+        [SerializeField] private AudioClip _winSound;
         public TrashEnum _currentGlove;
         public TrashController _collectedTrash;
 
@@ -56,6 +61,26 @@ namespace Player
         {
             _currentGlove = (TrashEnum)(((int)_currentGlove + 1) % Enum.GetValues(typeof(TrashEnum)).Length);
             PlayerController.Instance.hudManager.GloveUI.OnGloveChanged();
+        }
+        
+        public void PlayGrabSound()
+        {
+            _sfx.PlayOneShot(_grabSound);
+        }
+        
+        public void PlayCorrectSound()
+        {
+            _sfx.PlayOneShot(_correctSound);
+        }
+
+        public void PlayWrongSound()
+        {
+            _sfx.PlayOneShot(_wrongSound);
+        }
+        
+        public void PlayWinSound()
+        {
+            _sfx.PlayOneShot(_winSound);
         }
     }
 }
